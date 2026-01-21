@@ -1,7 +1,4 @@
-import { NextResponse } from "next/server";
-import type { NextRequest } from "next/server";
+// middleware.ts
+// Şimdilik boş bırakıyoruz
 
-export function middleware(req: NextRequest) {
-  // Şimdilik boş
-  return NextResponse.next();
-}
+
